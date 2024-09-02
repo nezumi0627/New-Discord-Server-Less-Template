@@ -1,4 +1,7 @@
-# Discord Bot Free Serverless Template
+# Discord Bot Free Serverless Template🚀
+
+
+[日本語](README.md)
 
 **Serverless Discord Bot using Glitch and Google Apps Script (GAS) :robot:**
 
