@@ -1,4 +1,5 @@
-# Discord Bot サーバーレステンプレート🚀
+# Discord Bot
+# サーバーレステンプレート🚀
 
 [English](README-en.md)
 
