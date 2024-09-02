@@ -1,0 +1,35 @@
+# Node.js関連
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# 環境変数
+.env
+
+# エディタ/IDE関連
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# ログファイル
+*.log
+
+# 一時ファイル
+tmp/
+temp/
+
+# ビルド出力
+dist/
+build/
+
+# Glitch関連
+.glitch-assets
+
+# その他
+*.bak
+*.tmp
