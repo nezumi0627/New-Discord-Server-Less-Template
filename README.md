@@ -1,5 +1,7 @@
 # Discord Bot サーバーレステンプレート🚀
 
+[English](README-en.md)
+
 **Glitch と Google Apps Script (GAS) を使用した無料のサーバーレス Discord Bot :robot:**
 
 ## 概要
